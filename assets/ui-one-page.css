@@ -70,10 +70,18 @@ li{
 	background-color: white;
 	color: #222222;
 	border-radius: 5px;
-	padding: 10px 20px;
-	min-height: 80px;
+	/* padding: 10px 20px; */
+	min-height: 120px;
 	border: 1px solid #ccc;
 	box-shadow: 1px 2px 5px rgba(135,135,135,0.54);
+}
+
+.description{
+  max-width: 600px;
+  background: #d9edf7;
+  min-height: 90px;
+  padding: 10px 20px;
+  border-right: 2px solid #bce8f1;
 }
 
 .btn-cta{
