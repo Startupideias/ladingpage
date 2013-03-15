@@ -1,5 +1,5 @@
 body{
-	background:url(images/dark.png);
+	background: white;
 	font-family: 'Source Sans Pro', Arial, serif;
 }
 .text-center{
@@ -12,16 +12,16 @@ body{
 .logo{
 	margin: 0;
 	padding: 10px 0 10px 0;
+	background: #21172C;
 	border-bottom: 1px solid #414040;
 }
 
 .header{
-	background: #21172C url(images/bg-banner.jpg) center top repeat-x;
-	border-bottom: 1px solid #ccc;
+	background: #21172C;
 }
 
 .header h1{
-  font-weight: 900;
+  font-weight: 100;
 	font-size: 50px;
 	color: #fff;
 	line-height: 20px;
@@ -68,7 +68,7 @@ li{
 }
 
 .convert{
-	background: url(images/noise.png);
+
 }
 
 .box-cta{
@@ -120,21 +120,24 @@ li{
 
 section h2{
 	font-size: 50px;
-	color: #ddd;
+	font-weight: 100;
+	color: #474b4e;
 	text-align: center;
 	line-height: 50px;
 }
 
 section h3, section h4{
 	font-size: 18px;
-	color: #ddd;
+	font-weight: 100;
+	color: #474b4e;
 	text-align: center;
 	line-height: 25px;
 }
 
 #dark p{
 	text-align: center;
-	color: #836d9f;
+	color: #474b4e;
+	padding-bottom: 30px;
 }
 
 #dark .span2{
@@ -142,5 +145,26 @@ section h3, section h4{
 }
 
 #wood{
-  background: #261438 url(images/agsquare.png);
+  background: #f0f0ec;
+  border-bottom: 1px solid rgba(0,0,0,0.14);
+}
+
+.depoimentos{
+  background: #2e3133;
+  color: #474b4e;
+}
+
+.depoimentos h2{
+  text-align: left;
+}
+
+.depoimentos h3{
+  color: #474b4e;
+  text-align: left;
+}
+
+.end p{
+  line-height: 15px;
+  font-size: 18px;
+  font-weight: 100px;
 }
