@@ -193,14 +193,8 @@ div.span12.photos .span2{
   margin-left: 30px;
 }
 
-div.contacts .span2{
-  background: #eee url(images/phone.png) no-repeat center center;
-  max-width: 80px; 
-  min-height: 80px;
-  border-radius: 5px;
-}
 
-div.contacts .span2 p{
-  margin-top: 150px;
-  color: #404040;
-}
+
+div.contacts .span1 a{
+  text-indent: -9999px;
+} 
