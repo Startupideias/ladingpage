@@ -39,7 +39,7 @@ body{
 	font-size: 30px;
 	color: #ccc;
 	font-weight: 100;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 }
 
 .header h2 span{
@@ -187,4 +187,8 @@ section h3, section h4{
   line-height: 15px;
   font-size: 18px;
   font-weight: 100px;
+}
+
+div.span12.photos .span2{
+  margin-left: 30px;
 }
