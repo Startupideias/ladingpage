@@ -22,7 +22,7 @@ body{
 
 .header-interno{
 	background: #21172C url(images/separa.png) center bottom repeat-x;
-	min-height: 480px;
+	min-height: 400px;
 }
 
 .header h1, .header-interno h1{
@@ -193,8 +193,18 @@ div.span12.photos .span2{
   margin-left: 30px;
 }
 
-
-
 div.contacts .span1 a{
   text-indent: -9999px;
 } 
+
+#envelope{
+	min-width: 940px;
+	min-height: 629px;
+	background: url(images/envelope.png) no-repeat center bottom;
+	padding-top: 20px;
+}
+
+#envelope .span6{
+	margin-top: 120px;
+	margin-left: 350px;
+}
