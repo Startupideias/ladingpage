@@ -171,7 +171,7 @@ section h3, section h4{
 
 .depoimentos{
   background: #2e3133;
-  color: #474b4e;
+  color: #b4b4b4;
 }
 
 .depoimentos h2{
@@ -179,7 +179,8 @@ section h3, section h4{
 }
 
 .depoimentos h3{
-  color: #474b4e;
+  font-size: 22px;
+  color: #b4b4b4;
   text-align: left;
 }
 
