@@ -1,0 +1,13 @@
+.wufoo .field.text{
+  width: 300px;
+  min-height: 30px;
+  border: 1px solid #ccc;
+}
+
+.wufoo li{
+  padding-left: 80px;
+}
+
+form li.buttons input{
+  padding-left: 100px;  
+}
